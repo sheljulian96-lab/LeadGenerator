@@ -1,0 +1,9 @@
+{
+  "name": "Connective Solutions - Signal Intelligence",
+  "description": "Premium B2B Lead Gen Engine with AI-driven scoring, cinematic video outreach, and real-time voice sales coaching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
